@@ -25,7 +25,7 @@
 }
 
 .header__subtitle {
-  position: absolute; 
+  position: absolute;
   width: 388px;
   left: 64px;
   bottom: 30px;
@@ -35,8 +35,8 @@
 }
 
 .logo_place_header {
-  position: absolute; 
-  width: 183px; 
+  position: absolute;
+  width: 183px;
   height: 32px;
   left: 64px;
   top: 30px;
@@ -50,7 +50,7 @@
   height: 568px;
   width: 568px;
   background: #2f80ed;
-  position: absolute; 
+  position: absolute;
   z-index: -1;
   right: 0;
   top: 64px;
