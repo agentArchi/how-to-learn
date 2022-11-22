@@ -1,0 +1,4 @@
+.video_iframe {
+    display: flex;
+    grid-gap:20px;
+}
