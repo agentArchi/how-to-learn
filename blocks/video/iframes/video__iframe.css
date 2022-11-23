@@ -1,4 +1,4 @@
-.video_iframe {
+.video__iframe {
     display: flex;
     grid-gap:20px;
 }
